@@ -8,5 +8,6 @@
  
  To execute these codes we use these commands
  
- g++ filename.c -o myexe 
+ g++ filename.c -o myexe
+ 
  myexe
