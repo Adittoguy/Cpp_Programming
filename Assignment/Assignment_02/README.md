@@ -8,5 +8,5 @@
 
  To execute these codes I used commands:-
 
- g++ filename.c -o  myexe :- to compile 
- myexe :- to run
+ g++ filename.c -o  myexe :-compile 
+ myexe :-run
